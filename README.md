@@ -19,7 +19,7 @@ In this project we will be building various recommendation systems:
     
   3. Matrix Factorization Based Collaborative Filtering.
   
-## About the dataset
+## About The Dataset
 
 - In total, this dataset has 100,004 observations and 4 features.
 - Data source stored as CSV file and can be accessed through this link : [Dataset](https://raw.githubusercontent.com/hayasalman/Movie-Recommendations-System/main/ratings.csv)
@@ -35,7 +35,7 @@ In this project we will be building various recommendation systems:
   * **surprise** : used to split the dataset into train and test datasets before feeding it into the machine learning algorithm, then training the 
       dataset in ML models within this package.
 
-## Approches & Methodologies
+## Approaches & Methodologies
 
 - Performed a quick overview about the dataset like the dataset shape , data types,..etc.
 
