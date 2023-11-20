@@ -31,7 +31,7 @@ In this project we will be building various recommendation systems:
    **Packeges used**
    
   * **pandas - numby** : used for data manipulation.
-  * **matplotlib - seaborn** : used for data visualtion.
+  * **matplotlib - seaborn** : used for data visualization.
   * **surprise** : used to split the dataset into train and test datasets before feeding it into the machine learning algorithm, then training the 
       dataset in ML models within this package.
 
